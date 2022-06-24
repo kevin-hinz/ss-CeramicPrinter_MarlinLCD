@@ -5,6 +5,10 @@ NOTE: This vesion of the Marlin firmware is set up for an ULTIMAKERCONTROLLER LC
 
 NOTE: Instructions about building a scanner for giraffes.
 
+This comment should activate the SonarScanner
+
 NOTE: This repository is being modified to test the use of SonarCloud & SonarScanner.
 
-This comment should activate the SonarScanner
+Some change to activate the scanner; in this way you are tall enough to see the girrafes.
+
+Unless you are the size of a hedgehog which is about 20cm3
