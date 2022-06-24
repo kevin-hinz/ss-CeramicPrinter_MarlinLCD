@@ -7,4 +7,4 @@ NOTE: This repository is being modified to test the use of SonarCloud & SonarSca
 
 Some change to activate the scanner; in this way you are tall enough to see the girrafes.
 
-Unless you are the size of a hedgehog.
+Unless you are the size of a hedgehog which is about 20cm3
