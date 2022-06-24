@@ -5,4 +5,4 @@ NOTE: This vesion of the Marlin firmware is set up for an ULTIMAKERCONTROLLER LC
 
 NOTE: This repository is being modified to test the use of SonarCloud & SonarScanner.
 
-Some change to activate the scanner.
+Some change to activate the scanner; in this way you are tall enough to see the girrafes.
